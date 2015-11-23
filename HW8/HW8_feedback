@@ -5,7 +5,7 @@ Plot: Male vs Female Income By Race
 Since the plot is a perfect square, it allows for good visualization of the ratio of how much lower female income is. The equity line plotted down the middle also helps see the distance from the mean.
 The plot is representing the data correctly, but perhaps some improvement could be to use labels directly on the points as there are only 5 of them and going back and forth to the legend distracts the eye.  Transposing the axis may also improve the point made. Also, the selection of colors should be more generic, as the colors associated with the races also carry negative connotations in some contexts.
  
-![Alt text]('/Users/mariaortiz/PUI2015_mortiz/HW8/pj585.png')
+![ScreenShot](https://raw.github.com/maryooh/PUI2015_mortiz/HW8/pj585.jpg)
 
 Sf2632 aka fanshi118
  
@@ -14,7 +14,7 @@ Plot: Number of LA foreclosures by time and distance
 At first glance, the plot is confusing. There is a clear peak, but it is hard to parse out the key point of the graph which (to my understanding)  is the distance of the maximum number oF foreclosure units is from city hall. There is a line drawn on the grid between 100 and 150 and no clarification as to why it is significant.
 The dots that represent the points plotted should have been make much smaller, and the labels on the axis where the months are should have also been smaller to facilitate reading, and the “slices” could have been filled to clearly illustrate the difference between the months.
 
-![Alt text]('/Users/mariaortiz/PUI2015_mortiz/HW8/sf2632.png')
+![ScreenShot](https://raw.github.com/maryooh/PUI2015_mortiz/HW8/sf2632.jpg)
    
 bsb342 aka bhagwat1210
 
@@ -23,5 +23,5 @@ Plots: Male and Female Citibike riders, age, trip duration and number of trips
 If both plots would have been placed side by side, the comparison would have been much easier. Both plots show that younger riders tend to take longer trips, but the lack of connectors to the axis at first glance makes it seem like there is a dearth of younger riders in the Citibike system. In the Female plot, there is one lonely point by the “1900” birth year that is probably an error, and the plot should have been adjusted to cutoff at the year 1920. The male plot has 3 points near the 1900 birth year line that should have also been excluded. For the both plots,  the points that are projected against the “wall” are slightly hard to interpret. 
 To improve the plot, I would suggest connectors to the birth axis and fillers to show the different heights.
 
-![Alt text]('/Users/mariaortiz/PUI2015_mortiz/HW8/bsb342_f.png')
-![Alt text]('/Users/mariaortiz/PUI2015_mortiz/HW8/bsb342_m.png')
+![ScreenShot](https://raw.github.com/maryooh/PUI2015_mortiz/HW8/bsb342_f.jpg)
+![ScreenShot](https://raw.github.com/maryooh/PUI2015_mortiz/HW8/bsb342_m.jpg)
