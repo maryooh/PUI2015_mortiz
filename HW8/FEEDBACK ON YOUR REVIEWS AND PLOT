@@ -1,0 +1,59 @@
+very good job on the reviews! 10/10
+
+NOTES ON YOUR PLOT
+===================
+
+colors are nicely separable by color blind people
+
+notation on the y axis is readable and major and minor ticks help readability but displaying a lot of info but avoiding crowdedness
+
+the background color for the legend is distracting capturing too much attention
+
+
+
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+===========================================
+
+
+bsb342_f
+============
+
+the plot says color blind compliant, but really the color blind compliance is only important when multiple colors are present. 
+
+spaces are missing between words and parenthesis in both label and title
+
+the 3D is actually justified but the position of the points in the 3d space is hard to read. i think the transparency is attempting to make it more clear but it does not increase readability and the lack of legend makes it confusing to understand its meaning
+
+axis ticks are too small
+
+
+
+sf2632
+============
+
+the plot is confusing for many reasons:
+
+unnecessary 3D
+
+dots are too large and having no boundaries or transparency they blend
+
+the tick labels overlap with the axis label. 
+
+the orientation of the axis label is confusing (should be along the axis)
+
+the labels are not clear: what is Reg?
+
+
+
+pj585
+============
+  diagonal line unexplained
+
+large x and y values should be expressed in a more compact notation ($ in units of 1000 for example)
+
+assigning color to rage is dangerous and induces bias and preconceptions better to chose shapes. 
+
+the plot is empty (remember tufte's rules) however the equal axis ratio helps making the point that all female stipends are below the "equal" line so the emptiness is justified in this case
+
